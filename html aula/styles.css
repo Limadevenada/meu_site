@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+h1 {
+    color: rgb(0, 0, 0);
+}
+* {
+    color: rgb(0, 0, 0);
+}
+#IA {
+    color:purple;
+
+}
+.ia {
+    color:brown;
+}
+#afirma {
+    color:purple;
+}
+* { 
+    box: sizing 300px; border-box350px;
+    background-color: rgb(107, 104, 104);
+
+}
